@@ -1,0 +1,13 @@
+Este archivo sera editado por Pablo y Julio.
+
+Esta linea sera editada solo por Pablo.
+
+Esta linea sera editada por Pablo solo despues del primer merge.
+
+Esta linea se quedara en blanco.
+
+Esta linea sera editada solo por Julio.
+
+Esta linea sera editada por Julio solo despues del primer merge.
+
+El resto del archivo permanecera igual.
